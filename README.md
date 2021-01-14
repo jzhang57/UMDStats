@@ -7,7 +7,7 @@ The following is a link to the extension on the Google Web Store. (If it's not h
 
 ### Instructions
 1. Download the ZIP file.
-2. Open Google Chrome and type this in the web bar. **chrome://extensions/**
+2. Open Google Chrome and type this in the web bar --> **chrome://extensions/**
 3. On the top right of the page, it isn't on already, you should turn on developer mode.
 4. Then on the top left there should be a button calld "Load Unpacked" which you should click. Then find the UMDStats folder.
 5. If you would like, you can turn off developer mode. But other that, the extension should work as intended!
